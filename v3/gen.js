@@ -19,9 +19,9 @@ if (
   return console.log("note: Special symbols are supported in the v4");
 }
 
-res = '';
-for (var i = 0, n = list.length; i < config.lenght; ++i) {
-  res += list.charAt(Math.floor(Math.random() * n));
+result = '';
+for (var index = 0, n = list.length; index < config.lenght; ++index) {
+  result += list.charAt(Math.floor(Math.random() * n));
 };
 
-return console.log(res);
+return console.log(result);
