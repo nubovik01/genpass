@@ -1,8 +1,9 @@
 {
-  "lenght": 8,
-  "numbers": true,
-  "EnglishLetters": true,
-  "EnglishCapitalLetters": true,
-  "RussianLetters": true,
-  "RussianCapitalLetters": true
+  "lenght": 10,
+  "numbers": false,
+  "EnglishLetters": false,
+  "EnglishCapitalLetters": false,
+  "RussianLetters": false,
+  "RussianCapitalLetters": false,
+  "symbols": true
 }
