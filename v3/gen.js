@@ -14,7 +14,10 @@ if (
   !config.RussianLetters &&
   !config.RussianCapitalLetters &&
   !config.numbers
-) return console.log("Choose something in config for generate password");
+) {
+  console.log("Choose something in config for generate password");
+  return console.log("note: Special symbols are supported in the v4");
+}
 
 res = '';
 for (var i = 0, n = list.length; i < config.lenght; ++i) {
