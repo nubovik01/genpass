@@ -20,7 +20,7 @@ if (
   !config.symbols
 ) return console.log("Choose something in config for generate password");
 
-for (let i = 0; i < config.amount; i++) {
+for (let number = 0; number < config.amount; number++) {
   result = '';
 
   for (var index = 0, n = list.length; index < config.lenght; ++index) {
