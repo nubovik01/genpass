@@ -5,7 +5,7 @@ if (config.EnglishCapitalLetters) list += "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 if (config.RussianLetters) list += "абвгдеёжзийклмнопрстуфхцчшщъыьэюя";
 if (config.RussianCapitalLetters) list += "АБВГДЕЁЖЗЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ";
 if (config.numbers) list += "0123456789";
-if (config.symbols) list+="!@#$%^&*()-_=+;:,./?\|`~[]{}";
+if (config.symbols) list+="!@#$%^&*()-_=+\"<>;:,./?\|`~[]{}'";
 
 if (config.lenght==0 || !config.lenght) return console.log("Choose length a password in config");
 
