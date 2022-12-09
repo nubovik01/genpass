@@ -1,3 +1,5 @@
 {
-  "lenght": 8
+  "lenght": 8,
+  "numbers": true,
+  "CapitalLetters": true
 }
