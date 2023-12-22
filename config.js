@@ -5,6 +5,8 @@ module.exports = {
   "ENGLISH_CAPITAL_LETTERS": true,
   "RUSSIAN_LETTERS": false,
   "RUSSIAN_CAPITAL_LETTERS": false,
+  "UKRAINIAN_LETTERS": false,
+  "UKRAINIAN_CAPITAL_LETTERS": false,
   "NUMBERS": true,
   "SYMBOLS": true
 };

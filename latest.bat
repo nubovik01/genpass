@@ -1,2 +1,2 @@
-node v5/gen.js
+node v6/gen.js
 pause
